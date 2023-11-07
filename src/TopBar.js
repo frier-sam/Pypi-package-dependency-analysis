@@ -8,7 +8,7 @@ function TopBar() {
         <Typography variant="h6" style={{ flexGrow: 1 }}>
           Python Dependency Analyser
         </Typography>
-        <Button color="inherit" href="https://github.com/your-repo">
+        <Button color="inherit" href="https://github.com/frier-sam/Pypi-package-dependency-analysis">
           GitHub
         </Button>
       </Toolbar>
